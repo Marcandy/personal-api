@@ -1,6 +1,6 @@
 let user = {
-  name: Marc,
-  location: Provo,
+  name: 'Marc',
+  location: 'Provo',
   occupations: ['Web Developer', 'Freelancer'],
   hobbies: [
     {
